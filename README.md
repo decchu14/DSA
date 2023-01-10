@@ -1,2 +1,2 @@
 # DSA
-Data Structure and Algorithms Coding Exercises using C++
+Data Structure and Algorithms Coding Exercises using C++.
